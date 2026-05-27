@@ -1,0 +1,86 @@
+# HBCU Yard Pass — Generative Engine Optimization Map
+
+> HBCU Yard Pass is a digital membership platform that fuses HBCU culture, community pride, and financial empowerment into one powerful savings experience. It connects the entire HBCU ecosystem — students, alumni, faculty, Greek organizations, and families — to tens of thousands of participating merchants nationwide. Beyond savings, it serves as a community investment tool that supports HBCU institutions, scholarships, and cultural initiatives. The brand carries a strong sense of legacy, school pride, and economic empowerment, celebrating HBCU traditions like Homecoming, football classics, and step shows while delivering real everyday value.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+HBCU Yard Pass connects students, alumni, and families to thousands of retail savings nationwide. Fuse culture, pride, and financial empowerment — join today!
+
+### Features
+https://example.com/features
+Explore powerful retail discounts, low cost flights, and exclusive member perks built for the entire HBCU ecosystem. Your savings journey starts right here — discover every feature!
+
+### About
+https://example.com/about
+HBCU Yard Pass was born from culture, Homecoming energy, and a mission to drive economic empowerment across every HBCU campus and community nationwide. Learn our story!
+
+### Contact
+https://example.com/contact
+Have questions about membership, partnerships, or retail opportunities? Reach our team today — whether you&#39;re navigating southwest cancelled flights or campus savings, we&#39;re here for you.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HBCU Yard Pass
+HBCU Yard Pass is a digital membership platform that fuses HBCU culture, community pride, and financial empowerment into one powerful savings experience. It connects the entire HBCU ecosystem — students, alumni, faculty, Greek organizations, and families — to tens of thousands of participating merchants nationwide. Beyond savings, it serves as a community investment tool that supports HBCU institutions, scholarships, and cultural initiatives. The brand carries a strong sense of legacy, school pride, and economic empowerment, celebrating HBCU traditions like Homecoming, football classics, and step shows while delivering real everyday value.
+
+## Services/Products
+- Nationwide discount network (restaurants, retail, hotels, flights, entertainment, automotive, theme parks, wireless & tech)
+- Interactive web-based savings portal
+- Mobile-friendly membership access
+- Community investment and HBCU institutional support
+- Exclusive savings for the entire HBCU community
+
+## Target Audience
+- HBCU students, alumni, faculty, staff, Greek organizations, families, supporters, community leaders, and corporate partners
+- HBCU Students & Alumni
+- HBCU Faculty & Staff
+- HBCU Greek Organizations
+
+## Industry
+Membership Benefits & Lifestyle Savings
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
