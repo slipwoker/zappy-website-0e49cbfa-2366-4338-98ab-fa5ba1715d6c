@@ -341,6 +341,7 @@ Members use the HBCU Yard Pass interactive portal for in-person purchases, onlin
 
 
 
+
 Savings Categories
 
 ## Save on Everything That Matters to You
@@ -365,6 +366,7 @@ From everyday essentials to once-in-a-lifetime moments — Homecoming weekends, 
 
 Unlock exclusive discounts at thousands of restaurants, fast-casual spots, and local eateries nationwide — whether you're grabbing a bite on campus or dining out with family.
 
+
 Everyday Essential
 
 
@@ -380,6 +382,7 @@ Everyday Essential
 
 
 Shop smarter at major national retailers and local boutiques. From apparel and electronics to home goods and gifts — your membership turns everyday retail into a savings opportunity.
+
 
 Everyday Essential
 
@@ -397,6 +400,7 @@ Everyday Essential
 
 Book with confidence at premium hotels and resorts across the country. Whether it's Homecoming weekend or a family getaway, your Yard Pass unlocks preferred rates at top properties.
 
+
 Big Moments
 
 
@@ -412,6 +416,7 @@ Big Moments
 
 
 Explore travel deals and low-cost flights to football classics, Greek conventions, and family reunions. Your membership helps the entire HBCU community move together and save together.
+
 
 Big Moments
 
@@ -429,10 +434,25 @@ Big Moments
 
 From theme parks and concerts to step shows, sporting events, and cultural experiences — access exclusive member pricing on the moments that define HBCU community life.
 
+
 Big Moments
 
 
 
+
+
+
+
+
+
+
+### Entertainment & Attractions
+
+
+From theme parks and concerts to step shows, sporting events, and cultural experiences — access exclusive member pricing on the moments that define HBCU community life.
+
+
+Big Moments
 
 
 
@@ -445,6 +465,7 @@ Big Moments
 
 Save on car rentals, maintenance services, and the latest tech products. From getting to the classic to staying connected on campus — your Yard Pass has you covered.
 
+
 Everyday Essential
 
 
@@ -456,6 +477,7 @@ Everyday Essential
 
 
 Tens of thousands of participating merchants. One powerful membership.
+
 
 Get Your Yard Pass
 
